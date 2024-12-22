@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Create personal wish list</description>
+        <device_type>browser</device_type>
+        <hint>Create personal wish list</hint>
+        <name/>
+        <order/>
+        <roles>x_1589778_wish_lis.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-22 20:39:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf3e418f832e52108eab56d6feaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_1589778_wish_lis">115d81cb832e52108eab56d6feaad3d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">115d81cb832e52108eab56d6feaad3d6</sys_scope>
+        <sys_update_name>sys_app_application_cf3e418f832e52108eab56d6feaad392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-22 20:39:23</sys_updated_on>
+        <title>Wish List</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
